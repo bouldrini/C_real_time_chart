@@ -1,0 +1,68 @@
+#! /usr/bin/env python
+
+top = '.'
+out = 'build'
+
+def options(opt):
+    opt.load ('compiler_c compiler_cxx')
+
+def configure(conf):
+    conf.load ('compiler_c compiler_css')
+    cnf.check(features='cxx cxxprogram', lib=['m'], cflags=['-Wall'], defines=['var=foo'], uselib_store='GTKLIB')
+
+
+
+def build(bld):
+
+    bld(
+        features='c cshlib', 
+        source='./extern/zx_fft.c', 
+        target='fft'
+    )
+
+    bld(
+        features='c cshlib', 
+        source='./extern/zx_math.c', 
+        target='math'
+    )
+
+    bld(
+        features='c cshlib', 
+        source='./window.c', 
+        target='window', 
+        use='gnuplot diagram fft math'
+    )
+    
+    bld(
+        features='c cshlib', 
+        source='./gnuplot_i.c', 
+        target='gnuplot'
+    )
+
+    bld(
+        features='c cshlib', 
+        source='./diagram.c', 
+        target='diagram',
+        use='gnuplot'
+    )
+
+    bld(
+        features='c cshlib', 
+        source='./analysor.c', 
+        target='analysor',
+        use='window fft math'
+    )
+
+    bld(
+        features='c cshlib', 
+        source='./generator.c', 
+        target='generator'
+    )
+
+    app=bld(
+        features= 'c cxx cxxprogram',
+        uselib='GTKLIB',
+        source='main.cpp',
+        target='real_time_chart',
+        use='window gnuplot diagram analysor generator'
+    )

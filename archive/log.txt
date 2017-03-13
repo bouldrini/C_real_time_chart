@@ -1,0 +1,129 @@
+
+arning: empty y range [0:0], adjusting to [-1:1]
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-SoTBrE"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-WbmRiw"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-hbXK4a"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-sXFGFt"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-UwWHFP"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-c4PT6v"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-zVQsV7"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-9Tk7s4"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-Y1571J"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-4Oq7mN"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-j1tP2D"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-FvyE1Q"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-M0JL26"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-L3pmuZ"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-AVby1Y"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-YfQjrI"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-gnN2eG"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-UX9l0L"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-a1gGZ0"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-tImgiG"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-PYdyVp"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-ov1GVO"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-v1glOl"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-VRQGS4"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-3lKvPp"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-a23moX"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-OUzvGd"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-xVCjuU"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-tF03Uy"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-X3XYjj"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-gV8Sx9"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-RaxAmP"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-layrIC"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-mI9iYM"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-dkRiiG"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-aK10HT"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-ITInES"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-q4ysRk"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-V55J2g"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-VNGlcW"
+         line 0: No data in plot
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-Gtj7bd"
+         line 0: No data in plot
+
+
+         line 0: warning: Cannot find or open file "/var/tmp//gnuplot-i-CF1C9u"
+         line 0: No data in plot
+
