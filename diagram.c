@@ -28,8 +28,9 @@ void diagram_plot(void* _dia){
 	mach_timespec_t process_start, total_end, process_end;
 	clock_serv_t cclock;
 
+	// This should be a function parameter
+	// 4 times a second
 	long total_time = 250000000L;
-	// long total_time = 31250000L;
 
 	int pure_process_time_used_sec, total_time_used_sec;
 	long pure_process_time_used, time_to_wait, total_time_used;

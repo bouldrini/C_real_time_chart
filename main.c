@@ -77,6 +77,7 @@ const double diagram_resolution = diagram_seconds_per_frame / diagram_samples_pe
 // ===================================================================================================================================================
 
 int main(){
+	// DECLARATIONS
 	// generator_generate_signal(30,0.0,5, Fs, T, L, sampling_resolution);
 	shiftable_window* window;
 	analyser* analyser;
@@ -85,12 +86,14 @@ int main(){
 	scheduler* schedule;
 	synthesizer* synthi;
 
+	// INITIALIZATIONS
 	window = window_init(L, h1);
 	dia = diagram_init(window, diagram_resolution, diagram_samples_per_frame, diagram_seconds_per_frame);
 	analyser = analyser_init(window, sampling_resolution, enable_analyser_tone_identification);
 	synthi = synthesizer_init(window, synthesizer_start_frequency, synthesizer_phase, synthesizer_amplitude, Fs, T, L, sampling_resolution);
-	
 	schedule = scheduler_init(window, synthi, analyser, dia, with_regeneration, enable_simulation_module, enable_analyser_module, enable_analyser_tone_identification, enable_plotting_module);
+
+	// STARTING THE APPLICATION PARTS
 	scheduler_start(schedule);
 
 	while(1==1){};
